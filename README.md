@@ -474,3 +474,5 @@ MIT License — see LICENSE file for details.
 ---
 
 *Built with Next.js 15, TypeScript, Supabase, Clerk, VAPI, and Google Gemini 2.5 Flash.*
+Deployed link - https://charla-lake.vercel.app/
+
